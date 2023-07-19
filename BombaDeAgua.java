@@ -6,7 +6,7 @@ public class BombaDeAgua{
 
     public BombaDeAgua(int capacidadNecesaria, int voltaje, int espacioDisponible) {
         this.capacidadNecesaria = capacidadNecesaria;
-        this.voltaje = voltaje;
+       this.voltaje = voltaje;
         this.espacioDisponible = espacioDisponible;
     }
 }
